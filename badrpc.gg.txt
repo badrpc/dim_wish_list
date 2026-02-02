@@ -1,0 +1,4 @@
+title:badrpc's custom list
+description:Don't expect much. List is mostly compiled from others recommendations.
+//notes: https://www.youtube.com/@LlamaD2 https://www.youtube.com/watch?v=PjigO8K_cxY
+dimwishlist:item=3481382332&perks=2801223209,16392701,201365942,3966416502,1209885908
